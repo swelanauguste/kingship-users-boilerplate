@@ -163,7 +163,7 @@ LOGOUT_URL = "/"
 
 # Email settings
 ADMINS = [
-    ("infrastructure complaints", "kingship.lc@gmail.com"),
+    ("kingship", "kingship.lc@gmail.com"),
 ]
 
 
